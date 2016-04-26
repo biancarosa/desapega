@@ -1,0 +1,10 @@
+{
+    "name": "desapega",
+    "version": "1.0.0",
+    "description": "Small page to sell stuff",
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-image-resize": "^0.8.0"
+    },
+    "author": "Bianca Rosa"
+}
